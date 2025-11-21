@@ -1,4 +1,4 @@
-# UCMNet: Uncertainty-Aware and Context-Specific Network with Manhattan Prior for Real-Time Semantic Segmentation of Railway Scenes
+# UCMNet: Robust Semantic Segmentation for Autonomous Train Environmental Monitoring and Geometric Measurements in Adverse Scenes
 
 This repository contains the official Pytorch implementation of training & evaluation code for UCMNet🔥
 
